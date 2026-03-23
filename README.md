@@ -1,2 +1,2 @@
-# Project_Management_Software_Application
+# Project Management Software Application
 This project is a diploma thesis.
